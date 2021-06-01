@@ -6,7 +6,7 @@
 - Addition
 - Subtraction
 
-- to comment, use control + /
+- to comment, use control + / or command + /
 
 ####Special operator#####
 - exponential power => **
